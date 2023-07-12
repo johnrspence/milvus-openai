@@ -7,6 +7,9 @@ This project creates a simple streamlit UI to upload PDFs and then directly ask 
 - Milvus
 - Docker
 
+# API Key
+It's expected to setup an .env file with your own OpenAI api key to use this project.
+
 # Setting up docker
 Refer to the following Milvus [documentation](https://milvus.io/docs/install_standalone-docker.md) to set up your local docker container
 
