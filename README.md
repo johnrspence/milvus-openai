@@ -18,6 +18,10 @@ Add PDFs to the root project and then update the documents list in the file to i
 ``` python
 documents = []
 ```
+# Running the Application
+```
+streamlit run app.py
+```
 
 # Clearing Collections From Milvus
 To clear collections from Milvus, use the Jupiter Notebook and run the first and third cell. You can confirm if there is an existing collection using the 2nd cell. The default naming convention is 'LangChainCollection'
