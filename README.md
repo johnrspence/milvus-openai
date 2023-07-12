@@ -21,3 +21,6 @@ documents = []
 
 # Clearing Collections From Milvus
 To clear collections from Milvus, use the Jupiter Notebook and run the first and third cell. You can confirm if there is an existing collection using the 2nd cell. The default naming convention is 'LangChainCollection'
+
+# Example
+![Screenshot 2023-07-12 at 12 17 48 PM](https://github.com/johnrspence/milvus-openai/assets/139377890/73fba59e-96ac-4b80-9e98-07a2b2f63e45)
